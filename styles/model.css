@@ -1,0 +1,18 @@
+p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.Description{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    /* color:grey; */
+    text-align: center;
+    margin-top: 10px;
+}
+.heading{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+   
+}
